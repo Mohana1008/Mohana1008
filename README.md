@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mohana%20Dhar%20Chowdhury&textBg=false&desc=Data%20Science%20Student%20|%20Full%20Stack%20Web%20Devloper%20|%20Problem%20Solver&descAlignY=55&fontAlignY=31&animation=twinkling&fontSize=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F6CC&width=435&lines=Hey+there!+I+am+Mohana+Dhar+Chowdhury+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+Techno+Main+Saltlake%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Learning+AI%2FML%2C+Data+Analytics+%26+DSA+%F0%9F%9A%80;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&width=435&lines=Hey+there!+I+am+Mohana+Dhar+Chowdhury+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+TMSL+College%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Learning+AI%2FML%2C+Data+Analytics+%26+DSA+%F0%9F%9A%80;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@ Mohana Dhar Chowdhury :
   current_year: "3rd Year"
   semester: 5
   currently_learning: ["Excel", "SQL", "Python", "Power BI", "Tableau", "Statistics", "Machine Learning"]
-  currently_strengthening: ["Data Structures & Algorithms", "Problem Solving", "Data Cleaning", "Data Visualization", "Data Analytics", "Machine Learning Fundamentals"]
+  currently_strengthening: ["DSA", "Problem Solving", "Data Cleaning", "Data Visualization", "Data Analytics", "ML Fundamentals"]
   looking_for: ["Data Science Internship", "Data Analytics Internship", "Open Source Collaboration", "AI & Data Science Projects"]
   fun_fact: "I enjoy discovering hidden stories within data and turning complex problems into simple, meaningful solutions."
 ```
