@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Mohana%20Dhar%20Chowdhury&textBg=false&desc=Data%20Science%20Student%20|%20Full%20Stack%20Web%20Devloper%20|%20Problem%20Solver&descAlignY=55&fontAlignY=31&animation=twinkling&fontSize=55&descSize=17" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&width=520&lines=Hey+there!+I+am+Mohana+Dhar+Chowdhury+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+TMSL+College%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Learning+AI%2FML%2C+Data+Analytics+%26+DSA+%F0%9F%9A%80;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F6CC&center=true&vCenter=true&width=520&lines=Hey+there!+I+am+Mohana+Dhar+Chowdhury+%F0%9F%91%8B;B.tech+CSE+(Data+Science)+%40+TMSL+College%F0%9F%8E%93;Aspiring+Data+Scientist+and+Data+Analyst%F0%9F%9A%80;Learning+AI%2FML%2C+Data+Analytics+%26+DSA+%F0%9F%9A%80;Building+Projects+%E2%80%A2+Solving+Problems+%E2%80%A2+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -225,9 +225,9 @@ If you got all three right first try, you might already be thinking like a Data 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohana%20Dhar%20Chowdhury-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-dhar-chowdhury-bb011b38b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mohana1008-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohana1008)
-[![Gmail](https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jishadcias@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohanadharchowdhury)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MDCYNA/)
 
 📍 **Kolkata, India**
 
