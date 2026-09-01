@@ -80,9 +80,9 @@ If you got all three right first try, you might already be thinking like a Data 
 
 | Degree | Institution | Year | Status |
 |--------|-------------|------|--------|
-| 🎓 B.Tech — Computer Science & Engineering (Data Science) | Techno Main Saltlake | 3rd Year, 5th Semester | Ongoing |
-| 📚 Higher Secondary (Class XII) | DAV Model School, Durgapur | Completed | Completed |
-| 📚 Secondary School (Class X) | DAV Model School, Durgapur | Completed | Completed |
+| 🎓 B.Tech — Computer Science & Engineering (Data Science) | Techno Main Saltlake | 2024-2028 | 3rd Year, 5th Sem |
+| 📚 Higher Secondary (Class XII) | DAV Model School, Durgapur | 2023 | Completed |
+| 📚 Secondary School (Class X) | DAV Model School, Durgapur | 2021 | Completed |
 
 📍 *Born and brought up in Durgapur, West Bengal — currently based in Kolkata, India for higher studies.*
 
