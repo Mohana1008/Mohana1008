@@ -184,8 +184,9 @@ If you got all three right first try, you might already be thinking like a Data 
 | | Achievement |
 |---|-------------|
 | 💼 | **AICTE - IBM SkillsBuild Academic Internship - Data Analytics with AI - BharatCares** |
-| 🎯 | **Smart India Hackathon** — Participant |
 | 📊 | **Altair Data Analytics Certification** |
+| 🎯 | **2x Smart India Hackathon** — Participant |
+
 
 
 ---
