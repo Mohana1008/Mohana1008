@@ -180,13 +180,13 @@ If you got all three right first try, you might already be thinking like a Data 
 ---
 
 ## 🏆 Achievements & Certifications
-<div align="center">
+
 | | Achievement |
 |---|-------------|
 | 💼 | **AICTE - IBM SkillsBuild Academic Internship - Data Analytics with AI - BharatCares** |
 | 🎯 | **Smart India Hackathon** — Participant |
 | 📊 | **Altair Data Analytics Certification** |
-</div>
+
 
 ---
 
