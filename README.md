@@ -17,6 +17,16 @@
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohana1008/Mohana1008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohana1008/Mohana1008/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohana1008/Mohana1008/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<br/>
+
 ---
 
 ## 👨‍💻 About Me
@@ -194,12 +204,16 @@ If you got all three right first try, you might already be thinking like a Data 
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+<img src="https://github-readme-stats-v5r7.vercel.app/api?username=Mohana1008&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-v5r7.vercel.app/api/top-langs/?username=Mohana1008&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
+<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohana1008&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohana1008&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-activity-graph-silk.vercel.app/graph?username=Mohana1008&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
